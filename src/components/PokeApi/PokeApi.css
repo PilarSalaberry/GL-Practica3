@@ -1,0 +1,19 @@
+.pokeApi h1 {
+    color:darkcyan;
+}
+
+.pokeApi p {
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    color: darkorange;
+    border: 1px dashed #ccc;
+    width: fit-content;
+    padding: 10px;
+}
+
+.pokeApi {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
